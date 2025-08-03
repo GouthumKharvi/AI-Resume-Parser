@@ -1,7 +1,10 @@
 # AI-Resume-Parser
 An AI-powered job recommendation system that uses transformer-based sentence embeddings to semantically match candidate resumes with job postings, enhancing recruitment efficiency and candidate-job fit beyond traditional keyword-based search.
 
-Absolutely! Here’s a fully expanded, **pin-to-pin detailed README** with everything — including AI techniques, model details, Streamlit web app info, how to run, and requirements. This version leaves nothing out:
+
+https://github.com/user-attachments/assets/8782eb9e-cb99-493d-83db-58b7af43a1c5
+
+
 
 ---
 
