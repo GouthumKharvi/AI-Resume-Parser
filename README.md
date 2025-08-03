@@ -4,6 +4,7 @@ An AI-powered job recommendation system that uses transformer-based sentence emb
 
 https://github.com/user-attachments/assets/8782eb9e-cb99-493d-83db-58b7af43a1c5
 
+Exlore the Live app here :  https://ai-resume-parser.streamlit.app/
 
 
 ---
